@@ -8,4 +8,3 @@ func _ready():
 	player.play("burn")
 	sparkParticles.emitting = true
 	smokeParticles.emitting = true
-	sparkParticles.lifetime = 0.5
